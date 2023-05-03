@@ -9,6 +9,7 @@
 后续可能增加Mid360与LIO方案支持，尽请期待.
 
 <img src="pic/nav_arch.png"/>
+
 ## 2. 各子模块简介
 ### 2.1 VINS-Fusion
 VINS(Visual-Inertial Systems)是一个2017年由香港科技大学开源的一个VIO算法框架.其中VINS-Fusion可用于使用双目相机+IMU构建VIO，并可以使用其中的loop_fusion进行回环检测.
